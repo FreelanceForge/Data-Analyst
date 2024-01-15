@@ -61,3 +61,5 @@ Explore in-depth trends, including:
 <p align="center">
   <img src="Terrorism Dashboard/img/Report Image 4.PNG" alt="Report Image 4">
 </p>
+
+# Project :: HR-Attrition-Dashboard
