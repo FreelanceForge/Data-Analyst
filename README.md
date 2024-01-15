@@ -28,3 +28,5 @@ On the second page, we compiled key performance indicators (KPIs) that reveal so
 <br>
 
 # Project :: Terrorism-Dashboard-Analysics
+Welcome to the Terrorism Dashboard Analytics project! 
+🌐 This repository hosts an interactive dashboard focusing on terrorism analytics. The project includes a meticulously crafted Home Page and detailed Statistics Pages. Dive into the world of data-driven insights with this analytics tool.
