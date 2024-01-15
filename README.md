@@ -70,3 +70,5 @@ Welcome to the HR Attrition Dashboard Analytics Project !
 ## Features:
 #### Department-wise Attrition Analysis :
  Gain a deep understanding of attrition trends across different departments. Identify areas of concern and implement targeted retention strategies to enhance organizational stability.
+
+#### Employee Demographics Analysis :
