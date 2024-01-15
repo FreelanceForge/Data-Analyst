@@ -68,5 +68,5 @@ Welcome to the HR Attrition Dashboard Analytics Project !
 <br>
 🌐 This comprehensive dashboard offers valuable insights into employee attrition within your organization. By leveraging key performance indicators (KPIs) and trend analysis, it empowers HR professionals and decision-makers to make informed strategies for talent retention and workforce management.
 ## Features:
-- Department-wise Attrition Analysis
+# Department-wise Attrition Analysis :
  Gain a deep understanding of attrition trends across different departments. Identify areas of concern and implement targeted retention strategies to enhance organizational stability.
