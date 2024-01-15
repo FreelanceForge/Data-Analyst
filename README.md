@@ -24,3 +24,7 @@ On the second page, we compiled key performance indicators (KPIs) that reveal so
 <p align="center">
   <img src="Power BI Qatar Dashboard Analytic/Staticis Page part2 of Dashboard FIFA World Cup 2022.PNG" alt="Staticis Page part2 of Dashboard FIFA World Cup 2022">
 </p>
+<br>
+<br>
+
+# Project :: Terrorism-Dashboard-Analysics
