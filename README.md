@@ -5,3 +5,6 @@ As a passionate data enthusiast, we created a dynamic and informative dashboard 
 ## Features:
 ### 🏠 Home Page:
 Check out the first page of the dashboard, where you can find all the latest updates, news, and a countdown to the big event. Get ready to dive into the world of football like never before!
+<p align="center">
+  <img src="Power BI Qatar Dashboard Analytic/Home page of dashboard FIFA World Cup 2022.PNG" alt="Home page of dashboard FIFA World Cup 2022">
+</p>
