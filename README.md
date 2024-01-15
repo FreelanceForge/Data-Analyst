@@ -63,3 +63,6 @@ Explore in-depth trends, including:
 </p>
 
 # Project :: HR-Attrition-Dashboard
+Welcome to the HR Attrition Dashboard Analytics Project ! 
+🌐 This comprehensive dashboard offers valuable insights into employee attrition within your organization. By leveraging key performance indicators (KPIs) and trend analysis, it empowers HR professionals and decision-makers to make informed strategies for talent retention and workforce management.
+
