@@ -59,5 +59,5 @@ Explore in-depth trends, including:
 <p style="margin-bottom: 20px;" align="center"></p>
 
 <p align="center">
-  <img src="Terrorism Dashboard/img/Report Image 4" alt="Report Image 4">
+  <img src="Terrorism Dashboard/img/Report Image 4.PNG" alt="Report Image 4">
 </p>
