@@ -77,3 +77,5 @@ Explore employee attrition based on age and gender. Visualize demographic trends
 #### Attrition by Education Fields :
 Understand how attrition varies among employees with different educational backgrounds. Use this information to align training and development programs with the career aspirations of your workforce.
 
+#### Job Satisfaction Rating :
+Monitor and analyze job satisfaction ratings to proactively address potential issues. Identify correlations between satisfaction levels and attrition to foster a positive work environment.
