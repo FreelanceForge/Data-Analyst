@@ -79,3 +79,8 @@ Understand how attrition varies among employees with different educational backg
 
 #### Job Satisfaction Rating :
 Monitor and analyze job satisfaction ratings to proactively address potential issues. Identify correlations between satisfaction levels and attrition to foster a positive work environment.
+<br>
+
+<p align="center">
+  <img src="HR Attrition Dashboard/Capture2.PNG" alt="Capture2">
+</p>
