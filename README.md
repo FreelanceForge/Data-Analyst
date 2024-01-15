@@ -16,3 +16,11 @@ On the second page, we compiled key performance indicators (KPIs) that reveal so
 - 🎂 Average Player Age
 - ⚽ Total Goals Scored
 - And much more, all presented in engaging charts and visuals!
+<p align="center">
+  <img src="Power BI Qatar Dashboard Analytic/Staticics Page of Dashboard FIFA World Cup 2022.PNG" alt="Staticics Page of Dashboard FIFA World Cup 2022">
+</p>
+<p style="margin-bottom: 20px;" align="center"></p>
+
+<p align="center">
+  <img src="Power BI Qatar Dashboard Analytic/Staticis Page part2 of Dashboard FIFA World Cup 2022.PNG" alt="Staticis Page part2 of Dashboard FIFA World Cup 2022">
+</p>
