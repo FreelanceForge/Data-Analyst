@@ -46,3 +46,18 @@ Explore in-depth trends, including:
   - Top terrorist groups by their number of kills
   - Top 10 number of people killed by target type
   - And many more...
+
+<p align="center">
+  <img src="Terrorism Dashboard/img/Report Image 2.PNG" alt="Report Image 2">
+</p>
+
+<p style="margin-bottom: 20px;" align="center"></p>
+
+<p align="center">
+  <img src="Terrorism Dashboard/img/Report Image 3.PNG" alt="Report Image 3">
+</p>
+<p style="margin-bottom: 20px;" align="center"></p>
+
+<p align="center">
+  <img src="Terrorism Dashboard/img/Report Image 4" alt="Report Image 4">
+</p>
