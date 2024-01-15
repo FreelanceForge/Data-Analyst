@@ -72,3 +72,8 @@ Welcome to the HR Attrition Dashboard Analytics Project !
  Gain a deep understanding of attrition trends across different departments. Identify areas of concern and implement targeted retention strategies to enhance organizational stability.
 
 #### Employee Demographics Analysis :
+Explore employee attrition based on age and gender. Visualize demographic trends to uncover patterns and tailor HR policies to meet the diverse needs of your workforce.
+
+#### Attrition by Education Fields :
+Understand how attrition varies among employees with different educational backgrounds. Use this information to align training and development programs with the career aspirations of your workforce.
+
