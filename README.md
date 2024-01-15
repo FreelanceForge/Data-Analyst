@@ -8,3 +8,10 @@ Check out the first page of the dashboard, where you can find all the latest upd
 <p align="center">
   <img src="Power BI Qatar Dashboard Analytic/Home page of dashboard FIFA World Cup 2022.PNG" alt="Home page of dashboard FIFA World Cup 2022">
 </p>
+### 📈 Statistics Page:
+On the second page, we compiled key performance indicators (KPIs) that reveal some intriguing insights about the tournament:
+- 🌐 Total Countries Participating
+- ⚽ Total Teams Competing
+- 🎂 Average Player Age
+- ⚽ Total Goals Scored
+- And much more, all presented in engaging charts and visuals!
