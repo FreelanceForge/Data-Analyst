@@ -39,3 +39,10 @@ An intuitive starting point for navigating the Terrorism Dashboard Analytics pro
  <p align="center">
   <img src="Terrorism Dashboard/img/Report Image 1.PNG" alt="Report Image 1">
 </p>
+
+### 📈 Statistics Page:
+Explore in-depth trends, including:
+  - Top hostages by country
+  - Top terrorist groups by their number of kills
+  - Top 10 number of people killed by target type
+  - And many more...
