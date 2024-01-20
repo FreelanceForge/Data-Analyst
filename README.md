@@ -89,3 +89,21 @@ Monitor and analyze job satisfaction ratings to proactively address potential is
 # Project :: Sales-Analytics-Dashboard
 ## Overview
 An interactive and insightful Power BI Sales Analytics Dashboard that provides a comprehensive view of sales trends and performance metrics. This project aims to empower businesses with data-driven decision-making by analyzing key aspects such as revenue by customer segment, sales of products by quantity, sales trends by year and month, product segmentation by gender, top 5 rating products, and detailed sales analysis by product.
+## Features:
+### Revenue by Customer Segment: 
+Visualize the contribution of different customer segments to the overall revenue, enabling targeted marketing and sales strategies.
+
+### Sales of Products by Quantity: 
+Analyze the quantity of products sold over time, helping in inventory management and demand forecasting.
+
+### Sales Trends by Year and Month: 
+Uncover patterns and trends in sales performance across different time periods for strategic planning and optimization.
+
+### Product Segment by Gender: 
+Explore how product sales are distributed among different gender segments, providing insights for targeted product development and marketing campaigns.
+
+### Top 5 Rating Products: 
+Identify and showcase the top-rated products based on customer ratings, assisting in highlighting and promoting high-performing items.
+
+### Sales by Product: 
+Dive deep into individual product sales, understanding their performance and popularity in the market
