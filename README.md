@@ -107,3 +107,8 @@ Identify and showcase the top-rated products based on customer ratings, assistin
 
 ### Sales by Product: 
 Dive deep into individual product sales, understanding their performance and popularity in the market
+<br>
+
+<p align="center">
+  <img src="HR Attrition Dashboard/Capture2.PNG" alt="Capture2">
+</p>
