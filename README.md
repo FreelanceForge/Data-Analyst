@@ -108,6 +108,8 @@ Identify and showcase the top-rated products based on customer ratings, assistin
 ### Sales by Product: 
 Dive deep into individual product sales, understanding their performance and popularity in the market
 <br>
+<br>
+
 
 <p align="center">
   <img src="Sale Analytics Dashboard/Capture.PNG" alt="Capture">
