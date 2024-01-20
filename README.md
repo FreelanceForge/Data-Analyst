@@ -84,3 +84,8 @@ Monitor and analyze job satisfaction ratings to proactively address potential is
 <p align="center">
   <img src="HR Attrition Dashboard/Capture2.PNG" alt="Capture2">
 </p>
+
+
+# Project :: Sales-Analytics-Dashboard
+## Overview
+An interactive and insightful Power BI Sales Analytics Dashboard that provides a comprehensive view of sales trends and performance metrics. This project aims to empower businesses with data-driven decision-making by analyzing key aspects such as revenue by customer segment, sales of products by quantity, sales trends by year and month, product segmentation by gender, top 5 rating products, and detailed sales analysis by product.
