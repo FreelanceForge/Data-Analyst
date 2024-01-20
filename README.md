@@ -110,5 +110,5 @@ Dive deep into individual product sales, understanding their performance and pop
 <br>
 
 <p align="center">
-  <img src="HR Attrition Dashboard/Capture2.PNG" alt="Capture2">
+  <img src="Sale Analytics Dashboard/Capture.PNG" alt="Capture">
 </p>
