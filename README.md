@@ -36,7 +36,7 @@ Welcome to the COVID-19 Dashboard created using Power BI!
  <br>
 
  <p align="center">
-  <img src="img/Home Page pic.PNG" alt="Home Page pic">
+  <img src="Covid-19 dashboard/img/Home Page pic.PNG" alt="Home Page pic">
 </p>
 <br>
 
