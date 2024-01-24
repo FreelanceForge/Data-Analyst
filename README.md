@@ -52,7 +52,7 @@ Visualize the distribution of COVID-19-related deaths across different states or
  Examine the annual statistics for a macroscopic view of the pandemic's impact over time.
  <br>
  <p align="center">
-  <img src="img/Statics Page pic.PNG" alt="Statics Page pic">
+  <img src="Covid-19 dashboard/img/Statics Page pic.PNG" alt="Statics Page pic">
 </p>
 
 ###  State Wise Testing Page:
@@ -68,7 +68,7 @@ Explore the geographical spread of positive COVID-19 cases, aiding in resource a
 Our State Wise Testing Page is designed to equip users with detailed, state-specific information crucial for effective pandemic management
 
 <p align="center">
-  <img src="img/Statewise Testing Pic.PNG" alt="Statewise Testing Pic">
+  <img src="Covid-19 dashboard/img/Statewise Testing Pic.PNG" alt="Statewise Testing Pic">
 </p>
 <br> 
 <br>
