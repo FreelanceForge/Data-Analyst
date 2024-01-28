@@ -26,7 +26,8 @@ On the second page, we compiled key performance indicators (KPIs) that reveal so
 </p>
 <br>
 <br>
-# COVID-19-Dashboard-Power BI
+
+# Project :: COVID-19-Dashboard-Power BI
 Welcome to the COVID-19 Dashboard created using Power BI! 
 🌐 This comprehensive dashboard provides valuable insights into the pandemic, with a user-friendly interface.
 
